@@ -1,0 +1,1 @@
+const timerStart = document.getElementById();
